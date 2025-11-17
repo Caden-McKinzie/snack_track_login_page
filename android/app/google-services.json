@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52443349780",
+    "project_id": "snack-track-login-page",
+    "storage_bucket": "snack-track-login-page.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52443349780:android:ee1e3ddf06f96bbfbfb801",
+        "android_client_info": {
+          "package_name": "com.example.snack_track_login_page"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJkfCILDGgiGqxHBMasldr1-UAx1rK-Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
